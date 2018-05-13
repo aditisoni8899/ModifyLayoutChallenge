@@ -8,11 +8,12 @@
 
     <gradient
 
-        android:startColor="#1c48f5"
+        android:startColor="#151e3f"
 
-        android:centerColor="#28a4ec"
+        android:centerColor="#183451"
 
-        android:endColor="#29b2ea"
+        android:endColor="#141D26"
+
 
         android:angle="90"/>
 
